@@ -41,11 +41,10 @@
 
 11. Index Governance Rules
 12. Version Transition Mechanism
-13. Technical Architecture
 
 ### Part V: Appendices
 
-14. Appendices
+13. Appendices
    - A. Calculation Examples
    - B. Glossary
    - C. Relationship with Existing Indices
