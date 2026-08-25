@@ -3,6 +3,7 @@
 ## Document Info
 
 **Version**: 1.0.0  
+**Publisher**: OMEN  
 **Release Date**: August 2026  
 **Status**: Preliminary Design Complete  
 **License**: MIT License  
